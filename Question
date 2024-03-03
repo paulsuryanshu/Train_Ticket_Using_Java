@@ -1,0 +1,18 @@
+Design a class RailwayTicket with the following description:
+
+Instance variables/data members:
+
+String name: to store the name of the customer.
+String coach: to store the type of coach customer wants to travel.
+long mobno: to store customer’s mobile number.
+int amt: to store basic amount of ticket.
+int totalamt: to store the amount to be paid after updating the original amount.
+Type of coaches                     Amount
+
+First_AC                            700
+Second_AC                           500
+Third_AC                            250
+sleeper                             None
+
+void display(): To display all details of a customer such as name, coach, total amount and mobile number.
+Write a main() method to create an object of the class and call the above methods.
